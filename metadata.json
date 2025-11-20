@@ -1,0 +1,7 @@
+{
+  "name": "WeChat AI Tutor",
+  "description": "Real-time conversational language practice using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
